@@ -1,0 +1,8 @@
+= Vert.x Java 9 modular example
+
+Example of a basic modular Vert.x app with Java 9.
+
+== Prerequisites
+
+* Apache Maven
+* JDK 9+
